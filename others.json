@@ -1,8 +1,10 @@
 [
   {
     "name": "flying saucer",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/flying%20saucer.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/flying%20saucer_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/flying%20saucer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/flying%20saucer_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/flying%20saucer.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/flying%20saucer_thumb.webp",
     "tags": [
       "flying saucer",
       "flying",
@@ -10,22 +12,20 @@
       "비행 접시",
       "flying item",
       "flying equipment",
-      "flying related",
       "saucer item",
       "saucer equipment",
-      "saucer related",
       "비행",
       "비행 관련",
-      "비행 장비",
       "접시",
-      "접시 관련",
-      "접시 장비"
+      "접시 관련"
     ]
   },
   {
     "name": "traffic signal control box",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/traffic%20signal%20control%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/traffic%20signal%20control%20box_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/traffic%20signal%20control%20box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/traffic%20signal%20control%20box_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/traffic%20signal%20control%20box.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/traffic%20signal%20control%20box_thumb.webp",
     "tags": [
       "traffic signal control box",
       "traffic",
@@ -35,24 +35,26 @@
       "교통 신호 제어함",
       "traffic item",
       "traffic equipment",
-      "traffic related",
       "signal item",
       "signal equipment",
-      "signal related",
       "control item",
       "control equipment",
-      "control related",
       "box item",
       "box equipment",
-      "box related",
       "교통",
-      "교통 관련"
+      "교통 관련",
+      "신호",
+      "신호 관련",
+      "제어함",
+      "제어함 관련"
     ]
   },
   {
     "name": "money bag",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/money%20bag.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/money%20bag_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/money%20bag.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/money%20bag_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/money%20bag.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/money%20bag_thumb.webp",
     "tags": [
       "money bag",
       "money",
@@ -60,18 +62,17 @@
       "돈주머니",
       "money item",
       "money equipment",
-      "money related",
       "bag item",
       "bag equipment",
-      "bag related",
-      "돈주머니 관련",
-      "돈주머니 장비"
+      "돈주머니 관련"
     ]
   },
   {
     "name": "youtube gold button",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/youtube%20gold%20button.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/youtube%20gold%20button_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/youtube%20gold%20button.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/youtube%20gold%20button_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/youtube%20gold%20button.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/youtube%20gold%20button_thumb.webp",
     "tags": [
       "youtube gold button",
       "youtube",
@@ -80,25 +81,24 @@
       "유튜브 골드 버튼",
       "youtube item",
       "youtube equipment",
-      "youtube related",
       "gold item",
       "gold equipment",
-      "gold related",
       "button item",
       "button equipment",
-      "button related",
       "유튜브",
       "유튜브 관련",
-      "유튜브 장비",
       "골드",
       "골드 관련",
-      "골드 장비"
+      "버튼",
+      "버튼 관련"
     ]
   },
   {
     "name": "diving watch",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/diving%20watch.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/diving%20watch_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/diving%20watch.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/diving%20watch_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/diving%20watch.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/diving%20watch_thumb.webp",
     "tags": [
       "diving watch",
       "diving",
@@ -106,22 +106,20 @@
       "다이빙 시계",
       "diving item",
       "diving equipment",
-      "diving related",
       "watch item",
       "watch equipment",
-      "watch related",
       "다이빙",
       "다이빙 관련",
-      "다이빙 장비",
       "시계",
-      "시계 관련",
-      "시계 장비"
+      "시계 관련"
     ]
   },
   {
     "name": "playground slide",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/playground%20slide.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/playground%20slide_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/playground%20slide.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/playground%20slide_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/playground%20slide.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/playground%20slide_thumb.webp",
     "tags": [
       "playground slide",
       "playground",
@@ -129,32 +127,31 @@
       "미끄럼틀",
       "playground item",
       "playground equipment",
-      "playground related",
       "slide item",
       "slide equipment",
-      "slide related",
-      "미끄럼틀 관련",
-      "미끄럼틀 장비"
+      "미끄럼틀 관련"
     ]
   },
   {
     "name": "bell",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/bell.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/bell_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/bell.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/bell_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/bell.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/bell_thumb.webp",
     "tags": [
       "bell",
       "종",
       "bell item",
       "bell equipment",
-      "bell related",
-      "종 관련",
-      "종 장비"
+      "종 관련"
     ]
   },
   {
     "name": "fuel pump",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fuel%20pump.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fuel%20pump_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fuel%20pump.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fuel%20pump_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fuel%20pump.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fuel%20pump_thumb.webp",
     "tags": [
       "fuel pump",
       "fuel",
@@ -162,36 +159,34 @@
       "연료 펌프",
       "fuel item",
       "fuel equipment",
-      "fuel related",
       "pump item",
       "pump equipment",
-      "pump related",
       "연료",
       "연료 관련",
-      "연료 장비",
       "펌프",
-      "펌프 관련",
-      "펌프 장비"
+      "펌프 관련"
     ]
   },
   {
     "name": "jar",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/jar.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/jar_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/jar.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/jar_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/jar.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/jar_thumb.webp",
     "tags": [
       "jar",
       "병",
       "jar item",
       "jar equipment",
-      "jar related",
-      "병 관련",
-      "병 장비"
+      "병 관련"
     ]
   },
   {
     "name": "slot machine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/slot%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/slot%20machine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/slot%20machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/slot%20machine_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/slot%20machine.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/slot%20machine_thumb.webp",
     "tags": [
       "slot machine",
       "slot",
@@ -199,22 +194,20 @@
       "슬롯 머신",
       "slot item",
       "slot equipment",
-      "slot related",
       "machine item",
       "machine equipment",
-      "machine related",
       "슬롯",
       "슬롯 관련",
-      "슬롯 장비",
       "머신",
-      "머신 관련",
-      "머신 장비"
+      "머신 관련"
     ]
   },
   {
     "name": "underground exploration robot",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/underground%20exploration%20robot.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/underground%20exploration%20robot_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/underground%20exploration%20robot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/underground%20exploration%20robot_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/underground%20exploration%20robot.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/underground%20exploration%20robot_thumb.webp",
     "tags": [
       "underground exploration robot",
       "underground",
@@ -223,25 +216,24 @@
       "지하 탐사 로봇",
       "underground item",
       "underground equipment",
-      "underground related",
       "exploration item",
       "exploration equipment",
-      "exploration related",
       "robot item",
       "robot equipment",
-      "robot related",
       "지하",
       "지하 관련",
-      "지하 장비",
       "탐사",
       "탐사 관련",
-      "탐사 장비"
+      "로봇",
+      "로봇 관련"
     ]
   },
   {
     "name": "fire extinguisher",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fire%20extinguisher.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fire%20extinguisher_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fire%20extinguisher.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fire%20extinguisher_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fire%20extinguisher.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fire%20extinguisher_thumb.webp",
     "tags": [
       "fire extinguisher",
       "fire",
@@ -249,46 +241,45 @@
       "소화기",
       "fire item",
       "fire equipment",
-      "fire related",
       "extinguisher item",
       "extinguisher equipment",
-      "extinguisher related",
-      "소화기 관련",
-      "소화기 장비"
+      "소화기 관련"
     ]
   },
   {
     "name": "seat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/seat.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/seat_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/seat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/seat_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/seat.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/seat_thumb.webp",
     "tags": [
       "seat",
       "좌석",
       "seat item",
       "seat equipment",
-      "seat related",
-      "좌석 관련",
-      "좌석 장비"
+      "좌석 관련"
     ]
   },
   {
     "name": "magnet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/magnet.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/magnet_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/magnet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/magnet_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/magnet.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/magnet_thumb.webp",
     "tags": [
       "magnet",
       "자석",
       "magnet item",
       "magnet equipment",
-      "magnet related",
-      "자석 관련",
-      "자석 장비"
+      "자석 관련"
     ]
   },
   {
     "name": "horse saddle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/horse%20saddle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/horse%20saddle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/horse%20saddle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/horse%20saddle_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/horse%20saddle.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/horse%20saddle_thumb.webp",
     "tags": [
       "horse saddle",
       "horse",
@@ -296,18 +287,17 @@
       "안장",
       "horse item",
       "horse equipment",
-      "horse related",
       "saddle item",
       "saddle equipment",
-      "saddle related",
-      "안장 관련",
-      "안장 장비"
+      "안장 관련"
     ]
   },
   {
     "name": "crystal ball",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/crystal%20ball.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/crystal%20ball_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/crystal%20ball.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/crystal%20ball_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/crystal%20ball.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/crystal%20ball_thumb.webp",
     "tags": [
       "crystal ball",
       "crystal",
@@ -315,68 +305,65 @@
       "수정 구슬",
       "crystal item",
       "crystal equipment",
-      "crystal related",
       "ball item",
       "ball equipment",
-      "ball related",
       "수정",
       "수정 관련",
-      "수정 장비",
       "구슬",
-      "구슬 관련",
-      "구슬 장비"
+      "구슬 관련"
     ]
   },
   {
     "name": "link",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/link.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/link_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/link.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/link_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/link.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/link_thumb.webp",
     "tags": [
       "link",
       "연결 고리",
       "link item",
       "link equipment",
-      "link related",
       "연결",
       "연결 관련",
-      "연결 장비",
       "고리",
-      "고리 관련",
-      "고리 장비"
+      "고리 관련"
     ]
   },
   {
     "name": "package",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/package.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/package_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/package.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/package_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/package.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/package_thumb.webp",
     "tags": [
       "package",
       "소포",
       "package item",
       "package equipment",
-      "package related",
-      "소포 관련",
-      "소포 장비"
+      "소포 관련"
     ]
   },
   {
     "name": "fire",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fire.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fire_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fire.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fire_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fire.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fire_thumb.webp",
     "tags": [
       "fire",
       "불꽃",
       "fire item",
       "fire equipment",
-      "fire related",
-      "불꽃 관련",
-      "불꽃 장비"
+      "불꽃 관련"
     ]
   },
   {
     "name": "safety pin",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/safety%20pin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/safety%20pin_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/safety%20pin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/safety%20pin_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/safety%20pin.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/safety%20pin_thumb.webp",
     "tags": [
       "safety pin",
       "safety",
@@ -384,78 +371,76 @@
       "안전핀",
       "safety item",
       "safety equipment",
-      "safety related",
       "pin item",
       "pin equipment",
-      "pin related",
-      "안전핀 관련",
-      "안전핀 장비"
+      "안전핀 관련"
     ]
   },
   {
     "name": "joystick",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/joystick.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/joystick_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/joystick.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/joystick_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/joystick.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/joystick_thumb.webp",
     "tags": [
       "joystick",
       "조이스틱",
       "joystick item",
       "joystick equipment",
-      "joystick related",
-      "조이스틱 관련",
-      "조이스틱 장비"
+      "조이스틱 관련"
     ]
   },
   {
     "name": "amphora",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/amphora.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/amphora_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/amphora.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/amphora_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/amphora.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/amphora_thumb.webp",
     "tags": [
       "amphora",
       "앰포라 항아리",
       "amphora item",
       "amphora equipment",
-      "amphora related",
       "앰포라",
       "앰포라 관련",
-      "앰포라 장비",
       "항아리",
-      "항아리 관련",
-      "항아리 장비"
+      "항아리 관련"
     ]
   },
   {
     "name": "sparkles",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/sparkles.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/sparkles_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/sparkles.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/sparkles_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/sparkles.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/sparkles_thumb.webp",
     "tags": [
       "sparkles",
       "반짝임",
       "sparkles item",
       "sparkles equipment",
-      "sparkles related",
-      "반짝임 관련",
-      "반짝임 장비"
+      "반짝임 관련"
     ]
   },
   {
     "name": "wheel",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/wheel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/wheel_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/wheel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/wheel_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/wheel.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/wheel_thumb.webp",
     "tags": [
       "wheel",
       "바퀴",
       "wheel item",
       "wheel equipment",
-      "wheel related",
-      "바퀴 관련",
-      "바퀴 장비"
+      "바퀴 관련"
     ]
   },
   {
     "name": "claw machine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/claw%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/claw%20machine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/claw%20machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/claw%20machine_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/claw%20machine.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/claw%20machine_thumb.webp",
     "tags": [
       "claw machine",
       "claw",
@@ -463,50 +448,48 @@
       "뽑기 기계",
       "claw item",
       "claw equipment",
-      "claw related",
       "machine item",
       "machine equipment",
-      "machine related",
       "뽑기",
       "뽑기 관련",
-      "뽑기 장비",
       "기계",
-      "기계 관련",
-      "기계 장비"
+      "기계 관련"
     ]
   },
   {
     "name": "toothbrush",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/toothbrush.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/toothbrush_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/toothbrush.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/toothbrush_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/toothbrush.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/toothbrush_thumb.webp",
     "tags": [
       "toothbrush",
       "칫솔",
       "toothbrush item",
       "toothbrush equipment",
-      "toothbrush related",
-      "칫솔 관련",
-      "칫솔 장비"
+      "칫솔 관련"
     ]
   },
   {
     "name": "label",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/label.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/label_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/label.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/label_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/label.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/label_thumb.webp",
     "tags": [
       "label",
       "라벨",
       "label item",
       "label equipment",
-      "label related",
-      "라벨 관련",
-      "라벨 장비"
+      "라벨 관련"
     ]
   },
   {
     "name": "safety vest",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/safety%20vest.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/safety%20vest_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/safety%20vest.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/safety%20vest_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/safety%20vest.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/safety%20vest_thumb.webp",
     "tags": [
       "safety vest",
       "safety",
@@ -514,22 +497,20 @@
       "안전 조끼",
       "safety item",
       "safety equipment",
-      "safety related",
       "vest item",
       "vest equipment",
-      "vest related",
       "안전",
       "안전 관련",
-      "안전 장비",
       "조끼",
-      "조끼 관련",
-      "조끼 장비"
+      "조끼 관련"
     ]
   },
   {
     "name": "shopping cart",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/shopping%20cart.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/shopping%20cart_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/shopping%20cart.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/shopping%20cart_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/shopping%20cart.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/shopping%20cart_thumb.webp",
     "tags": [
       "shopping cart",
       "shopping",
@@ -537,22 +518,20 @@
       "쇼핑 카트",
       "shopping item",
       "shopping equipment",
-      "shopping related",
       "cart item",
       "cart equipment",
-      "cart related",
       "쇼핑",
       "쇼핑 관련",
-      "쇼핑 장비",
       "카트",
-      "카트 관련",
-      "카트 장비"
+      "카트 관련"
     ]
   },
   {
     "name": "baby bottle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/baby%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/baby%20bottle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/baby%20bottle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/baby%20bottle_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/baby%20bottle.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/baby%20bottle_thumb.webp",
     "tags": [
       "baby bottle",
       "baby",
@@ -560,60 +539,59 @@
       "젖병",
       "baby item",
       "baby equipment",
-      "baby related",
       "bottle item",
       "bottle equipment",
-      "bottle related",
-      "젖병 관련",
-      "젖병 장비"
+      "젖병 관련"
     ]
   },
   {
     "name": "pinata",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/pinata.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/pinata_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/pinata.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/pinata_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/pinata.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/pinata_thumb.webp",
     "tags": [
       "pinata",
       "피냐타",
       "pinata item",
       "pinata equipment",
-      "pinata related",
-      "피냐타 관련",
-      "피냐타 장비"
+      "피냐타 관련"
     ]
   },
   {
     "name": "candle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/candle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/candle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/candle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/candle_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/candle.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/candle_thumb.webp",
     "tags": [
       "candle",
       "양초",
       "candle item",
       "candle equipment",
-      "candle related",
-      "양초 관련",
-      "양초 장비"
+      "양초 관련"
     ]
   },
   {
     "name": "sponge",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/sponge.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/sponge_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/sponge.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/sponge_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/sponge.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/sponge_thumb.webp",
     "tags": [
       "sponge",
       "스펀지",
       "sponge item",
       "sponge equipment",
-      "sponge related",
-      "스펀지 관련",
-      "스펀지 장비"
+      "스펀지 관련"
     ]
   },
   {
     "name": "pouring liquid",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/pouring%20liquid.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/pouring%20liquid_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/pouring%20liquid.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/pouring%20liquid_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/pouring%20liquid.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/pouring%20liquid_thumb.webp",
     "tags": [
       "pouring liquid",
       "pouring",
@@ -621,25 +599,22 @@
       "액체 따르는 모습",
       "pouring item",
       "pouring equipment",
-      "pouring related",
       "liquid item",
       "liquid equipment",
-      "liquid related",
       "액체",
       "액체 관련",
-      "액체 장비",
       "따르는",
       "따르는 관련",
-      "따르는 장비",
       "모습",
-      "모습 관련",
-      "모습 장비"
+      "모습 관련"
     ]
   },
   {
     "name": "economy class seats",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/economy%20class%20seats.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/economy%20class%20seats_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/economy%20class%20seats.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/economy%20class%20seats_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/economy%20class%20seats.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/economy%20class%20seats_thumb.webp",
     "tags": [
       "economy class seats",
       "economy",
@@ -648,39 +623,36 @@
       "이코노미석 좌석",
       "economy item",
       "economy equipment",
-      "economy related",
       "class item",
       "class equipment",
-      "class related",
       "seats item",
       "seats equipment",
-      "seats related",
       "이코노미석",
       "이코노미석 관련",
-      "이코노미석 장비",
       "좌석",
-      "좌석 관련",
-      "좌석 장비"
+      "좌석 관련"
     ]
   },
   {
     "name": "kasa",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/kasa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/kasa_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/kasa.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/kasa_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/kasa.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/kasa_thumb.webp",
     "tags": [
       "kasa",
       "삿갓",
       "kasa item",
       "kasa equipment",
-      "kasa related",
-      "삿갓 관련",
-      "삿갓 장비"
+      "삿갓 관련"
     ]
   },
   {
     "name": "marseille soap",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/marseille%20soap.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/marseille%20soap_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/marseille%20soap.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/marseille%20soap_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/marseille%20soap.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/marseille%20soap_thumb.webp",
     "tags": [
       "marseille soap",
       "marseille",
@@ -688,22 +660,20 @@
       "마르세유 비누",
       "marseille item",
       "marseille equipment",
-      "marseille related",
       "soap item",
       "soap equipment",
-      "soap related",
       "마르세유",
       "마르세유 관련",
-      "마르세유 장비",
       "비누",
-      "비누 관련",
-      "비누 장비"
+      "비누 관련"
     ]
   },
   {
     "name": "hot spring sign",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/hot%20spring%20sign.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/hot%20spring%20sign_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/hot%20spring%20sign.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/hot%20spring%20sign_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/hot%20spring%20sign.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/hot%20spring%20sign_thumb.webp",
     "tags": [
       "hot spring sign",
       "hot",
@@ -712,25 +682,22 @@
       "온천 표지판",
       "hot item",
       "hot equipment",
-      "hot related",
       "spring item",
       "spring equipment",
-      "spring related",
       "sign item",
       "sign equipment",
-      "sign related",
       "온천",
       "온천 관련",
-      "온천 장비",
       "표지판",
-      "표지판 관련",
-      "표지판 장비"
+      "표지판 관련"
     ]
   },
   {
     "name": "chess pawn",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/chess%20pawn.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/chess%20pawn_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/chess%20pawn.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/chess%20pawn_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/chess%20pawn.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/chess%20pawn_thumb.webp",
     "tags": [
       "chess pawn",
       "chess",
@@ -738,22 +705,20 @@
       "체스 폰",
       "chess item",
       "chess equipment",
-      "chess related",
       "pawn item",
       "pawn equipment",
-      "pawn related",
       "체스",
       "체스 관련",
-      "체스 장비",
       "폰",
-      "폰 관련",
-      "폰 장비"
+      "폰 관련"
     ]
   },
   {
     "name": "page facing up",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/page%20facing%20up.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/page%20facing%20up_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/page%20facing%20up.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/page%20facing%20up_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/page%20facing%20up.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/page%20facing%20up_thumb.webp",
     "tags": [
       "page facing up",
       "page",
@@ -762,25 +727,24 @@
       "위로 향한 페이지",
       "page item",
       "page equipment",
-      "page related",
       "facing item",
       "facing equipment",
-      "facing related",
       "up item",
       "up equipment",
-      "up related",
       "위로",
       "위로 관련",
-      "위로 장비",
       "향한",
       "향한 관련",
-      "향한 장비"
+      "페이지",
+      "페이지 관련"
     ]
   },
   {
     "name": "primary life support system",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/primary%20life%20support%20system.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/primary%20life%20support%20system_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/primary%20life%20support%20system.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/primary%20life%20support%20system_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/primary%20life%20support%20system.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/primary%20life%20support%20system_thumb.webp",
     "tags": [
       "primary life support system",
       "primary",
@@ -790,24 +754,26 @@
       "주 생명 유지 장치",
       "primary item",
       "primary equipment",
-      "primary related",
       "life item",
       "life equipment",
-      "life related",
       "support item",
       "support equipment",
-      "support related",
       "system item",
       "system equipment",
-      "system related",
       "주",
-      "주 관련"
+      "주 관련",
+      "생명",
+      "생명 관련",
+      "유지",
+      "유지 관련"
     ]
   },
   {
     "name": "first class seats",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/first%20class%20seats.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/first%20class%20seats_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/first%20class%20seats.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/first%20class%20seats_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/first%20class%20seats.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/first%20class%20seats_thumb.webp",
     "tags": [
       "first class seats",
       "first",
@@ -816,25 +782,22 @@
       "일등석 좌석",
       "first item",
       "first equipment",
-      "first related",
       "class item",
       "class equipment",
-      "class related",
       "seats item",
       "seats equipment",
-      "seats related",
       "일등석",
       "일등석 관련",
-      "일등석 장비",
       "좌석",
-      "좌석 관련",
-      "좌석 장비"
+      "좌석 관련"
     ]
   },
   {
     "name": "youtube silver button",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/youtube%20silver%20button.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/youtube%20silver%20button_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/youtube%20silver%20button.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/youtube%20silver%20button_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/youtube%20silver%20button.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/youtube%20silver%20button_thumb.webp",
     "tags": [
       "youtube silver button",
       "youtube",
@@ -843,25 +806,24 @@
       "유튜브 실버 버튼",
       "youtube item",
       "youtube equipment",
-      "youtube related",
       "silver item",
       "silver equipment",
-      "silver related",
       "button item",
       "button equipment",
-      "button related",
       "유튜브",
       "유튜브 관련",
-      "유튜브 장비",
       "실버",
       "실버 관련",
-      "실버 장비"
+      "버튼",
+      "버튼 관련"
     ]
   },
   {
     "name": "lotion bottle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/lotion%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/lotion%20bottle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/lotion%20bottle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/lotion%20bottle_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/lotion%20bottle.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/lotion%20bottle_thumb.webp",
     "tags": [
       "lotion bottle",
       "lotion",
@@ -869,36 +831,34 @@
       "로션 병",
       "lotion item",
       "lotion equipment",
-      "lotion related",
       "bottle item",
       "bottle equipment",
-      "bottle related",
       "로션",
       "로션 관련",
-      "로션 장비",
       "병",
-      "병 관련",
-      "병 장비"
+      "병 관련"
     ]
   },
   {
     "name": "abacus",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/abacus.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/abacus_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/abacus.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/abacus_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/abacus.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/abacus_thumb.webp",
     "tags": [
       "abacus",
       "주판",
       "abacus item",
       "abacus equipment",
-      "abacus related",
-      "주판 관련",
-      "주판 장비"
+      "주판 관련"
     ]
   },
   {
     "name": "flamingo fan",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/flamingo%20fan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/flamingo%20fan_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/flamingo%20fan.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/flamingo%20fan_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/flamingo%20fan.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/flamingo%20fan_thumb.webp",
     "tags": [
       "flamingo fan",
       "flamingo",
@@ -906,36 +866,34 @@
       "플라밍고 부채",
       "flamingo item",
       "flamingo equipment",
-      "flamingo related",
       "fan item",
       "fan equipment",
-      "fan related",
       "플라밍고",
       "플라밍고 관련",
-      "플라밍고 장비",
       "부채",
-      "부채 관련",
-      "부채 장비"
+      "부채 관련"
     ]
   },
   {
     "name": "buoy",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/buoy.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/buoy_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/buoy.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/buoy_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/buoy.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/buoy_thumb.webp",
     "tags": [
       "buoy",
       "부표",
       "buoy item",
       "buoy equipment",
-      "buoy related",
-      "부표 관련",
-      "부표 장비"
+      "부표 관련"
     ]
   },
   {
     "name": "party popper",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/party%20popper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/party%20popper_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/party%20popper.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/party%20popper_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/party%20popper.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/party%20popper_thumb.webp",
     "tags": [
       "party popper",
       "party",
@@ -943,22 +901,20 @@
       "파티 팝퍼",
       "party item",
       "party equipment",
-      "party related",
       "popper item",
       "popper equipment",
-      "popper related",
       "파티",
       "파티 관련",
-      "파티 장비",
       "팝퍼",
-      "팝퍼 관련",
-      "팝퍼 장비"
+      "팝퍼 관련"
     ]
   },
   {
     "name": "carousel horse",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/carousel%20horse.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/carousel%20horse_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/carousel%20horse.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/carousel%20horse_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/carousel%20horse.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/carousel%20horse_thumb.webp",
     "tags": [
       "carousel horse",
       "carousel",
@@ -966,64 +922,62 @@
       "회전목마 말",
       "carousel item",
       "carousel equipment",
-      "carousel related",
       "horse item",
       "horse equipment",
-      "horse related",
       "회전목마",
       "회전목마 관련",
-      "회전목마 장비",
       "말",
-      "말 관련",
-      "말 장비"
+      "말 관련"
     ]
   },
   {
     "name": "ribbon",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/ribbon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/ribbon_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/ribbon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/ribbon_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/ribbon.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/ribbon_thumb.webp",
     "tags": [
       "ribbon",
       "리본",
       "ribbon item",
       "ribbon equipment",
-      "ribbon related",
-      "리본 관련",
-      "리본 장비"
+      "리본 관련"
     ]
   },
   {
     "name": "headstone",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/headstone.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/headstone_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/headstone.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/headstone_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/headstone.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/headstone_thumb.webp",
     "tags": [
       "headstone",
       "묘비",
       "headstone item",
       "headstone equipment",
-      "headstone related",
-      "묘비 관련",
-      "묘비 장비"
+      "묘비 관련"
     ]
   },
   {
     "name": "joker",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/joker.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/joker_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/joker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/joker_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/joker.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/joker_thumb.webp",
     "tags": [
       "joker",
       "조커",
       "joker item",
       "joker equipment",
-      "joker related",
-      "조커 관련",
-      "조커 장비"
+      "조커 관련"
     ]
   },
   {
     "name": "travel toothbrush set",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/travel%20toothbrush%20set.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/travel%20toothbrush%20set_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/travel%20toothbrush%20set.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/travel%20toothbrush%20set_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/travel%20toothbrush%20set.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/travel%20toothbrush%20set_thumb.webp",
     "tags": [
       "travel toothbrush set",
       "travel",
@@ -1032,39 +986,38 @@
       "여행용 칫솔 세트",
       "travel item",
       "travel equipment",
-      "travel related",
       "toothbrush item",
       "toothbrush equipment",
-      "toothbrush related",
       "set item",
       "set equipment",
-      "set related",
       "여행용",
       "여행용 관련",
-      "여행용 장비",
       "칫솔",
       "칫솔 관련",
-      "칫솔 장비"
+      "세트",
+      "세트 관련"
     ]
   },
   {
     "name": "balloon",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/balloon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/balloon_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/balloon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/balloon_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/balloon.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/balloon_thumb.webp",
     "tags": [
       "balloon",
       "풍선",
       "balloon item",
       "balloon equipment",
-      "balloon related",
-      "풍선 관련",
-      "풍선 장비"
+      "풍선 관련"
     ]
   },
   {
     "name": "police warning lights",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/police%20warning%20lights.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/police%20warning%20lights_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/police%20warning%20lights.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/police%20warning%20lights_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/police%20warning%20lights.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/police%20warning%20lights_thumb.webp",
     "tags": [
       "police warning lights",
       "police",
@@ -1073,25 +1026,22 @@
       "경찰 경고등",
       "police item",
       "police equipment",
-      "police related",
       "warning item",
       "warning equipment",
-      "warning related",
       "lights item",
       "lights equipment",
-      "lights related",
       "경찰",
       "경찰 관련",
-      "경찰 장비",
       "경고등",
-      "경고등 관련",
-      "경고등 장비"
+      "경고등 관련"
     ]
   },
   {
     "name": "film projector",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/film%20projector.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/film%20projector_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/film%20projector.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/film%20projector_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/film%20projector.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/film%20projector_thumb.webp",
     "tags": [
       "film projector",
       "film",
@@ -1099,25 +1049,22 @@
       "영화 필름 영사기",
       "film item",
       "film equipment",
-      "film related",
       "projector item",
       "projector equipment",
-      "projector related",
       "영화",
       "영화 관련",
-      "영화 장비",
       "필름",
       "필름 관련",
-      "필름 장비",
       "영사기",
-      "영사기 관련",
-      "영사기 장비"
+      "영사기 관련"
     ]
   },
   {
     "name": "hero energy",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/hero%20energy.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/hero%20energy_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/hero%20energy.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/hero%20energy_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/hero%20energy.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/hero%20energy_thumb.webp",
     "tags": [
       "hero energy",
       "hero",
@@ -1125,22 +1072,20 @@
       "영웅 에너지",
       "hero item",
       "hero equipment",
-      "hero related",
       "energy item",
       "energy equipment",
-      "energy related",
       "영웅",
       "영웅 관련",
-      "영웅 장비",
       "에너지",
-      "에너지 관련",
-      "에너지 장비"
+      "에너지 관련"
     ]
   },
   {
     "name": "sleeping bag",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/sleeping%20bag.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/sleeping%20bag_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/sleeping%20bag.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/sleeping%20bag_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/sleeping%20bag.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/sleeping%20bag_thumb.webp",
     "tags": [
       "sleeping bag",
       "sleeping",
@@ -1148,18 +1093,17 @@
       "침낭",
       "sleeping item",
       "sleeping equipment",
-      "sleeping related",
       "bag item",
       "bag equipment",
-      "bag related",
-      "침낭 관련",
-      "침낭 장비"
+      "침낭 관련"
     ]
   },
   {
     "name": "grain silo",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/grain%20silo.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/grain%20silo_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/grain%20silo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/grain%20silo_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/grain%20silo.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/grain%20silo_thumb.webp",
     "tags": [
       "grain silo",
       "grain",
@@ -1167,22 +1111,20 @@
       "곡물 저장고",
       "grain item",
       "grain equipment",
-      "grain related",
       "silo item",
       "silo equipment",
-      "silo related",
       "곡물",
       "곡물 관련",
-      "곡물 장비",
       "저장고",
-      "저장고 관련",
-      "저장고 장비"
+      "저장고 관련"
     ]
   },
   {
     "name": "travel shampoo set",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/travel%20shampoo%20set.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/travel%20shampoo%20set_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/travel%20shampoo%20set.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/travel%20shampoo%20set_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/travel%20shampoo%20set.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/travel%20shampoo%20set_thumb.webp",
     "tags": [
       "travel shampoo set",
       "travel",
@@ -1191,25 +1133,24 @@
       "여행용 샴푸 세트",
       "travel item",
       "travel equipment",
-      "travel related",
       "shampoo item",
       "shampoo equipment",
-      "shampoo related",
       "set item",
       "set equipment",
-      "set related",
       "여행용",
       "여행용 관련",
-      "여행용 장비",
       "샴푸",
       "샴푸 관련",
-      "샴푸 장비"
+      "세트",
+      "세트 관련"
     ]
   },
   {
     "name": "fishing pole",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fishing%20pole.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/fishing%20pole_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fishing%20pole.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/fishing%20pole_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fishing%20pole.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/fishing%20pole_thumb.webp",
     "tags": [
       "fishing pole",
       "fishing",
@@ -1217,18 +1158,17 @@
       "낚싯대",
       "fishing item",
       "fishing equipment",
-      "fishing related",
       "pole item",
       "pole equipment",
-      "pole related",
-      "낚싯대 관련",
-      "낚싯대 장비"
+      "낚싯대 관련"
     ]
   },
   {
     "name": "new york souvenirs",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/new%20york%20souvenirs.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/new%20york%20souvenirs_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/new%20york%20souvenirs.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/new%20york%20souvenirs_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/new%20york%20souvenirs.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/new%20york%20souvenirs_thumb.webp",
     "tags": [
       "new york souvenirs",
       "new",
@@ -1237,39 +1177,36 @@
       "뉴욕 기념품",
       "new item",
       "new equipment",
-      "new related",
       "york item",
       "york equipment",
-      "york related",
       "souvenirs item",
       "souvenirs equipment",
-      "souvenirs related",
       "뉴욕",
       "뉴욕 관련",
-      "뉴욕 장비",
       "기념품",
-      "기념품 관련",
-      "기념품 장비"
+      "기념품 관련"
     ]
   },
   {
     "name": "soap",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/soap.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/soap_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/soap.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/soap_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/soap.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/soap_thumb.webp",
     "tags": [
       "soap",
       "비누",
       "soap item",
       "soap equipment",
-      "soap related",
-      "비누 관련",
-      "비누 장비"
+      "비누 관련"
     ]
   },
   {
     "name": "game die",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/game%20die.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/game%20die_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/game%20die.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/game%20die_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/game%20die.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/game%20die_thumb.webp",
     "tags": [
       "game die",
       "game",
@@ -1277,60 +1214,59 @@
       "주사위",
       "game item",
       "game equipment",
-      "game related",
       "die item",
       "die equipment",
-      "die related",
-      "주사위 관련",
-      "주사위 장비"
+      "주사위 관련"
     ]
   },
   {
     "name": "crutch",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/crutch.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/crutch_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/crutch.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/crutch_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/crutch.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/crutch_thumb.webp",
     "tags": [
       "crutch",
       "목발",
       "crutch item",
       "crutch equipment",
-      "crutch related",
-      "목발 관련",
-      "목발 장비"
+      "목발 관련"
     ]
   },
   {
     "name": "coffin",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/coffin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/coffin_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/coffin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/coffin_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/coffin.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/coffin_thumb.webp",
     "tags": [
       "coffin",
       "관",
       "coffin item",
       "coffin equipment",
-      "coffin related",
-      "관 관련",
-      "관 장비"
+      "관 관련"
     ]
   },
   {
     "name": "goggles",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/goggles.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/goggles_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/goggles.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/goggles_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/goggles.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/goggles_thumb.webp",
     "tags": [
       "goggles",
       "고글",
       "goggles item",
       "goggles equipment",
-      "goggles related",
-      "고글 관련",
-      "고글 장비"
+      "고글 관련"
     ]
   },
   {
     "name": "pinball machine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/pinball%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/pinball%20machine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/pinball%20machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/pinball%20machine_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/pinball%20machine.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/pinball%20machine_thumb.webp",
     "tags": [
       "pinball machine",
       "pinball",
@@ -1338,22 +1274,20 @@
       "핀볼 기계",
       "pinball item",
       "pinball equipment",
-      "pinball related",
       "machine item",
       "machine equipment",
-      "machine related",
       "핀볼",
       "핀볼 관련",
-      "핀볼 장비",
       "기계",
-      "기계 관련",
-      "기계 장비"
+      "기계 관련"
     ]
   },
   {
     "name": "duty free shopping bag",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/duty%20free%20shopping%20bag.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/duty%20free%20shopping%20bag_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/duty%20free%20shopping%20bag.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/duty%20free%20shopping%20bag_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/duty%20free%20shopping%20bag.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/duty%20free%20shopping%20bag_thumb.webp",
     "tags": [
       "duty free shopping bag",
       "duty",
@@ -1363,24 +1297,24 @@
       "면세점 쇼핑백",
       "duty item",
       "duty equipment",
-      "duty related",
       "free item",
       "free equipment",
-      "free related",
       "shopping item",
       "shopping equipment",
-      "shopping related",
       "bag item",
       "bag equipment",
-      "bag related",
       "면세점",
-      "면세점 관련"
+      "면세점 관련",
+      "쇼핑백",
+      "쇼핑백 관련"
     ]
   },
   {
     "name": "puzzle piece",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/puzzle%20piece.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/puzzle%20piece_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/puzzle%20piece.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/puzzle%20piece_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/puzzle%20piece.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/puzzle%20piece_thumb.webp",
     "tags": [
       "puzzle piece",
       "puzzle",
@@ -1388,22 +1322,20 @@
       "퍼즐 조각",
       "puzzle item",
       "puzzle equipment",
-      "puzzle related",
       "piece item",
       "piece equipment",
-      "piece related",
       "퍼즐",
       "퍼즐 관련",
-      "퍼즐 장비",
       "조각",
-      "조각 관련",
-      "조각 장비"
+      "조각 관련"
     ]
   },
   {
     "name": "seafloor drilling device",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/seafloor%20drilling%20device.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/seafloor%20drilling%20device_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/seafloor%20drilling%20device.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/seafloor%20drilling%20device_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/seafloor%20drilling%20device.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/seafloor%20drilling%20device_thumb.webp",
     "tags": [
       "seafloor drilling device",
       "seafloor",
@@ -1412,25 +1344,24 @@
       "해저 시추 장치",
       "seafloor item",
       "seafloor equipment",
-      "seafloor related",
       "drilling item",
       "drilling equipment",
-      "drilling related",
       "device item",
       "device equipment",
-      "device related",
       "해저",
       "해저 관련",
-      "해저 장비",
       "시추",
       "시추 관련",
-      "시추 장비"
+      "장치",
+      "장치 관련"
     ]
   },
   {
     "name": "plant growth module",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/plant%20growth%20module.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/plant%20growth%20module_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/plant%20growth%20module.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/plant%20growth%20module_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/plant%20growth%20module.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/plant%20growth%20module_thumb.webp",
     "tags": [
       "plant growth module",
       "plant",
@@ -1439,39 +1370,38 @@
       "식물 생장 모듈",
       "plant item",
       "plant equipment",
-      "plant related",
       "growth item",
       "growth equipment",
-      "growth related",
       "module item",
       "module equipment",
-      "module related",
       "식물",
       "식물 관련",
-      "식물 장비",
       "생장",
       "생장 관련",
-      "생장 장비"
+      "모듈",
+      "모듈 관련"
     ]
   },
   {
     "name": "firecracker",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/firecracker.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/firecracker_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/firecracker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/firecracker_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/firecracker.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/firecracker_thumb.webp",
     "tags": [
       "firecracker",
       "폭죽",
       "firecracker item",
       "firecracker equipment",
-      "firecracker related",
-      "폭죽 관련",
-      "폭죽 장비"
+      "폭죽 관련"
     ]
   },
   {
     "name": "oil drum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/oil%20drum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/oil%20drum_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/oil%20drum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/oil%20drum_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/oil%20drum.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/oil%20drum_thumb.webp",
     "tags": [
       "oil drum",
       "oil",
@@ -1479,22 +1409,20 @@
       "기름 드럼통",
       "oil item",
       "oil equipment",
-      "oil related",
       "drum item",
       "drum equipment",
-      "drum related",
       "기름",
       "기름 관련",
-      "기름 장비",
       "드럼통",
-      "드럼통 관련",
-      "드럼통 장비"
+      "드럼통 관련"
     ]
   },
   {
     "name": "wind chime",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/wind%20chime.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/wind%20chime_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/wind%20chime.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/wind%20chime_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/wind%20chime.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/wind%20chime_thumb.webp",
     "tags": [
       "wind chime",
       "wind",
@@ -1502,18 +1430,17 @@
       "풍경",
       "wind item",
       "wind equipment",
-      "wind related",
       "chime item",
       "chime equipment",
-      "chime related",
-      "풍경 관련",
-      "풍경 장비"
+      "풍경 관련"
     ]
   },
   {
     "name": "shopping bags",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/shopping%20bags.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/shopping%20bags_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/shopping%20bags.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/shopping%20bags_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/shopping%20bags.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/shopping%20bags_thumb.webp",
     "tags": [
       "shopping bags",
       "shopping",
@@ -1521,18 +1448,17 @@
       "쇼핑백",
       "shopping item",
       "shopping equipment",
-      "shopping related",
       "bags item",
       "bags equipment",
-      "bags related",
-      "쇼핑백 관련",
-      "쇼핑백 장비"
+      "쇼핑백 관련"
     ]
   },
   {
     "name": "ring buoy",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/ring%20buoy.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/ring%20buoy_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/ring%20buoy.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/ring%20buoy_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/ring%20buoy.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/ring%20buoy_thumb.webp",
     "tags": [
       "ring buoy",
       "ring",
@@ -1540,30 +1466,26 @@
       "구명 부환",
       "ring item",
       "ring equipment",
-      "ring related",
       "buoy item",
       "buoy equipment",
-      "buoy related",
       "구명",
       "구명 관련",
-      "구명 장비",
       "부환",
-      "부환 관련",
-      "부환 장비"
+      "부환 관련"
     ]
   },
   {
     "name": "brick",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/brick.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/others/brick_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/brick.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/2d/brick_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/brick.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/icons/main/office/3d/brick_thumb.webp",
     "tags": [
       "brick",
       "벽돌",
       "brick item",
       "brick equipment",
-      "brick related",
-      "벽돌 관련",
-      "벽돌 장비"
+      "벽돌 관련"
     ]
   }
 ]
