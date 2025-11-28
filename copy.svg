@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+<svg id="uuid-b24a5f72-df3d-4ed1-a46e-7efae232eb44" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
   <defs>
     <style>
-      .cls-1 {
-        fill: #5e5e5e;
+      .uuid-fe014543-ed04-4921-ba78-1d8072f92d72 {
+        fill: #424242;
         stroke-width: 0px;
       }
     </style>
   </defs>
-  <rect class="cls-1" x="3" y="2" width="10" height="12" rx="2" ry="2"/>
-  <path class="cls-1" d="M15,6h-1v6c0,1.65-1.35,3-3,3h-4v1c0,1.1.9,2,2,2h6c1.1,0,2-.9,2-2v-8c0-1.1-.9-2-2-2Z"/>
+  <rect class="uuid-fe014543-ed04-4921-ba78-1d8072f92d72" x="3" y="2" width="10" height="12" rx="2" ry="2"/>
+  <path class="uuid-fe014543-ed04-4921-ba78-1d8072f92d72" d="M15,6h-1v6c0,1.65-1.35,3-3,3h-4v1c0,1.1.9,2,2,2h6c1.1,0,2-.9,2-2v-8c0-1.1-.9-2-2-2Z"/>
 </svg>
