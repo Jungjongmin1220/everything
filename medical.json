@@ -1,10 +1,10 @@
 [
   {
     "name": "adhesive bandage",
-    "url": "medical/2d/adhesive%20bandage.png",
-    "thumbUrl": "medical/2d/adhesive%20bandage_thumb.webp",
-    "url3d": "medical/3d/adhesive%20bandage.png",
-    "thumbUrl3d": "medical/3d/adhesive%20bandage_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/adhesive%20bandage.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/adhesive%20bandage_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/adhesive%20bandage.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/adhesive%20bandage_thumb.webp",
     "tags": [
       "adhesive bandage",
       "adhesive",
@@ -35,10 +35,10 @@
   },
   {
     "name": "ambulance",
-    "url": "medical/2d/ambulance.png",
-    "thumbUrl": "medical/2d/ambulance_thumb.webp",
-    "url3d": "medical/3d/ambulance.png",
-    "thumbUrl3d": "medical/3d/ambulance_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/ambulance.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/ambulance_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/ambulance.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/ambulance_thumb.webp",
     "tags": [
       "ambulance",
       "ambulance medical",
@@ -64,10 +64,10 @@
   },
   {
     "name": "hand sanitizer",
-    "url": "medical/2d/hand%20sanitizer.png",
-    "thumbUrl": "medical/2d/hand%20sanitizer_thumb.webp",
-    "url3d": "medical/3d/hand%20sanitizer.png",
-    "thumbUrl3d": "medical/3d/hand%20sanitizer_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/hand%20sanitizer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/hand%20sanitizer_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/hand%20sanitizer.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/hand%20sanitizer_thumb.webp",
     "tags": [
       "hand sanitizer",
       "hand",
@@ -102,10 +102,10 @@
   },
   {
     "name": "microbe",
-    "url": "medical/2d/microbe.png",
-    "thumbUrl": "medical/2d/microbe_thumb.webp",
-    "url3d": "medical/3d/microbe.png",
-    "thumbUrl3d": "medical/3d/microbe_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/microbe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/microbe_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/microbe.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/microbe_thumb.webp",
     "tags": [
       "microbe",
       "microbe medical",
@@ -131,10 +131,10 @@
   },
   {
     "name": "emergency oxygen capsule",
-    "url": "medical/2d/emergency%20oxygen%20capsule.png",
-    "thumbUrl": "medical/2d/emergency%20oxygen%20capsule_thumb.webp",
-    "url3d": "medical/3d/emergency%20oxygen%20capsule.png",
-    "thumbUrl3d": "medical/3d/emergency%20oxygen%20capsule_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/emergency%20oxygen%20capsule.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/emergency%20oxygen%20capsule_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/emergency%20oxygen%20capsule.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/emergency%20oxygen%20capsule_thumb.webp",
     "tags": [
       "emergency oxygen capsule",
       "emergency",
@@ -170,10 +170,10 @@
   },
   {
     "name": "stethoscope",
-    "url": "medical/2d/stethoscope.png",
-    "thumbUrl": "medical/2d/stethoscope_thumb.webp",
-    "url3d": "medical/3d/stethoscope.png",
-    "thumbUrl3d": "medical/3d/stethoscope_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/stethoscope.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/stethoscope_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/stethoscope.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/stethoscope_thumb.webp",
     "tags": [
       "stethoscope",
       "stethoscope medical",
@@ -199,10 +199,10 @@
   },
   {
     "name": "syringe",
-    "url": "medical/2d/syringe.png",
-    "thumbUrl": "medical/2d/syringe_thumb.webp",
-    "url3d": "medical/3d/syringe.png",
-    "thumbUrl3d": "medical/3d/syringe_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/syringe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/2d/syringe_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/syringe.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/medical/3d/syringe_thumb.webp",
     "tags": [
       "syringe",
       "syringe medical",
