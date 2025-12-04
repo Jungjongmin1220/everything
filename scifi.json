@@ -1,0 +1,44 @@
+[
+  {
+    "name": "automatic steel door",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/2d/automatic%20steel%20door.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/2d/automatic%20steel%20door_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/3d/automatic%20steel%20door.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/3d/automatic%20steel%20door_thumb.webp",
+    "tags": [
+      "scifi",
+      "SF",
+      "sci-fi structure",
+      "SF 구조물",
+      "automatic steel door"
+    ]
+  },
+  {
+    "name": "laser gun",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/2d/laser%20gun.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/2d/laser%20gun_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/3d/laser%20gun.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/3d/laser%20gun_thumb.webp",
+    "tags": [
+      "scifi",
+      "SF",
+      "energy weapon",
+      "에너지 무기",
+      "laser gun"
+    ]
+  },
+  {
+    "name": "holographic panel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/2d/holographic%20panel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/2d/holographic%20panel_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/3d/holographic%20panel.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/scifi/3d/holographic%20panel_thumb.webp",
+    "tags": [
+      "scifi",
+      "SF",
+      "hologram tech",
+      "홀로그램 기술",
+      "holographic panel"
+    ]
+  }
+]
