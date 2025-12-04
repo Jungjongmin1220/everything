@@ -1,0 +1,618 @@
+[
+  {
+    "name": "parrot",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/parrot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/parrot_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/parrot.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/parrot_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "parrot"
+    ]
+  },
+  {
+    "name": "dog",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/dog.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/dog_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/dog.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/dog_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "dog"
+    ]
+  },
+  {
+    "name": "rabbit",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/rabbit.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/rabbit_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/rabbit.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/rabbit_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "rabbit"
+    ]
+  },
+  {
+    "name": "whale",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/whale.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/whale_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/whale.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/whale_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "marine life",
+      "해양생물",
+      "whale"
+    ]
+  },
+  {
+    "name": "turtle",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/turtle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/turtle_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/turtle.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/turtle_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "reptile",
+      "파충류",
+      "turtle"
+    ]
+  },
+  {
+    "name": "rhinoceros",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/rhinoceros.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/rhinoceros_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/rhinoceros.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/rhinoceros_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "rhinoceros"
+    ]
+  },
+  {
+    "name": "starfish",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/starfish.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/starfish_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/starfish.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/starfish_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "sea creature",
+      "바다생물",
+      "starfish"
+    ]
+  },
+  {
+    "name": "deer",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/deer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/deer_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/deer.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/deer_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "deer"
+    ]
+  },
+  {
+    "name": "elephant",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/elephant.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/elephant_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/elephant.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/elephant_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "elephant"
+    ]
+  },
+  {
+    "name": "dolphin",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/dolphin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/dolphin_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/dolphin.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/dolphin_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "marine life",
+      "해양생물",
+      "dolphin"
+    ]
+  },
+  {
+    "name": "lion",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/lion.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/lion_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/lion.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/lion_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "lion"
+    ]
+  },
+  {
+    "name": "crawfish",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/crawfish.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/crawfish_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/crawfish.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/crawfish_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "sea creature",
+      "바다생물",
+      "crawfish"
+    ]
+  },
+  {
+    "name": "seagull",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/seagull.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/seagull_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/seagull.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/seagull_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "seagull"
+    ]
+  },
+  {
+    "name": "camel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/camel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/camel_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/camel.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/camel_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "camel"
+    ]
+  },
+  {
+    "name": "eagle",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/eagle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/eagle_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/eagle.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/eagle_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "eagle"
+    ]
+  },
+  {
+    "name": "swan",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/swan.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/swan_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/swan.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/swan_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "swan"
+    ]
+  },
+  {
+    "name": "flamingo",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/flamingo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/flamingo_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/flamingo.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/flamingo_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "flamingo"
+    ]
+  },
+  {
+    "name": "octopus",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/octopus.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/octopus_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/octopus.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/octopus_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "sea creature",
+      "바다생물",
+      "octopus"
+    ]
+  },
+  {
+    "name": "zebra",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/zebra.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/zebra_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/zebra.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/zebra_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "zebra"
+    ]
+  },
+  {
+    "name": "tiger",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/tiger.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/tiger_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/tiger.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/tiger_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "tiger"
+    ]
+  },
+  {
+    "name": "shark",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/shark.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/shark_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/shark.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/shark_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "marine life",
+      "해양생물",
+      "shark"
+    ]
+  },
+  {
+    "name": "cheetah",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/cheetah.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/cheetah_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/cheetah.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/cheetah_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "cheetah"
+    ]
+  },
+  {
+    "name": "dungeness crab",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/dungeness%20crab.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/dungeness%20crab_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/dungeness%20crab.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/dungeness%20crab_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "sea creature",
+      "바다생물",
+      "dungeness crab"
+    ]
+  },
+  {
+    "name": "raccoon",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/raccoon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/raccoon_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/raccoon.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/raccoon_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "raccoon"
+    ]
+  },
+  {
+    "name": "panda bear",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/panda%20bear.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/panda%20bear_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/panda%20bear.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/panda%20bear_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "panda bear"
+    ]
+  },
+  {
+    "name": "owl",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/owl.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/owl_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/owl.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/owl_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "owl"
+    ]
+  },
+  {
+    "name": "hyena",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/hyena.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/hyena_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/hyena.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/hyena_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "hyena"
+    ]
+  },
+  {
+    "name": "manta ray",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/manta%20ray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/manta%20ray_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/manta%20ray.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/manta%20ray_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "marine life",
+      "해양생물",
+      "manta ray"
+    ]
+  },
+  {
+    "name": "penguin",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/penguin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/penguin_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/penguin.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/penguin_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "penguin"
+    ]
+  },
+  {
+    "name": "meerkat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/meerkat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/meerkat_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/meerkat.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/meerkat_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "meerkat"
+    ]
+  },
+  {
+    "name": "sparrow",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/sparrow.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/sparrow_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/sparrow.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/sparrow_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "sparrow"
+    ]
+  },
+  {
+    "name": "squirrel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/squirrel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/squirrel_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/squirrel.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/squirrel_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "squirrel"
+    ]
+  },
+  {
+    "name": "cat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/cat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/cat_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/cat.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/cat_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "cat"
+    ]
+  },
+  {
+    "name": "mole",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/mole.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/mole_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/mole.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/mole_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "mole"
+    ]
+  },
+  {
+    "name": "pigeon",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/pigeon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/pigeon_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/pigeon.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/pigeon_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "pigeon"
+    ]
+  },
+  {
+    "name": "duckling",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/duckling.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/duckling_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/duckling.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/duckling_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "bird",
+      "조류",
+      "duckling"
+    ]
+  },
+  {
+    "name": "jellyfish",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/jellyfish.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/jellyfish_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/jellyfish.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/jellyfish_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "sea creature",
+      "바다생물",
+      "jellyfish"
+    ]
+  },
+  {
+    "name": "monkey",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/monkey.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/monkey_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/monkey.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/monkey_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "monkey"
+    ]
+  },
+  {
+    "name": "giraffe",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/giraffe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/giraffe_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/giraffe.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/giraffe_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "giraffe"
+    ]
+  },
+  {
+    "name": "fox",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/fox.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/fox_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/fox.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/fox_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "fox"
+    ]
+  },
+  {
+    "name": "raccoon dog",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/raccoon%20dog.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/raccoon%20dog_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/raccoon%20dog.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/raccoon%20dog_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "raccoon dog"
+    ]
+  },
+  {
+    "name": "koala",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/koala.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/koala_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/koala.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/koala_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "koala"
+    ]
+  },
+  {
+    "name": "bear",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/bear.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/bear_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/bear.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/bear_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "bear"
+    ]
+  },
+  {
+    "name": "hedgehog",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/hedgehog.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/2d/hedgehog_thumb.webp",
+    "url3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/hedgehog.png",
+    "thumbUrl3d": "https://raw.githubusercontent.com/Jungjongmin1220/everything/main/animals/3d/hedgehog_thumb.webp",
+    "tags": [
+      "animals",
+      "동물",
+      "mammal",
+      "포유류",
+      "hedgehog"
+    ]
+  }
+]
