@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="uuid-fb927795-095d-4272-a191-257ddc6d532d" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+<svg id="uuid-ca4a280c-6485-411e-9c05-4cc52d85e73a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
   <defs>
     <style>
-      .uuid-0f65bba0-0f81-47a4-9219-9be9d8fa829c {
+      .uuid-707f8efb-870a-47ce-8499-71cfb8bf966e {
         fill: #afafaf;
         stroke-width: 0px;
       }
     </style>
   </defs>
-  <g id="uuid-3afd685c-df2b-4d63-b197-8ea49cf0bc00" data-name="path4">
-    <path class="uuid-0f65bba0-0f81-47a4-9219-9be9d8fa829c" d="M10,5.03c-.88-1.47-2.4-2.48-4.21-2.33-2.13.17-3.83,2.23-3.79,4.37.09,4.14,2.37,5.02,7.31,9.59.39.36.98.36,1.37,0,4.94-4.57,7.23-5.45,7.31-9.59.04-2.14-1.66-4.2-3.79-4.37-1.81-.14-3.32.86-4.21,2.33Z"/>
+  <g id="uuid-ad6f2671-6ace-47a6-887a-01bc0b8898e8" data-name="path4">
+    <path class="uuid-707f8efb-870a-47ce-8499-71cfb8bf966e" d="M10,5.03c-.88-1.47-2.4-2.48-4.21-2.33-2.13.17-3.83,2.23-3.79,4.37.09,4.14,2.37,5.02,7.31,9.59.39.36.98.36,1.37,0,4.94-4.57,7.23-5.45,7.31-9.59.04-2.14-1.66-4.2-3.79-4.37-1.81-.14-3.32.86-4.21,2.33Z"/>
   </g>
 </svg>

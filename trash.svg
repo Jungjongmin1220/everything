@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-9713ac07-e13b-41e8-ac28-998f42482099" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .uuid-640033b8-4705-4f95-bdf9-023e9c498c52 {
+        fill: #afafaf;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="uuid-640033b8-4705-4f95-bdf9-023e9c498c52" x="3" y="4" width="14" height="4" rx="1" ry="1"/>
+  <rect class="uuid-640033b8-4705-4f95-bdf9-023e9c498c52" x="7" y="2" width="6" height="4" rx="1" ry="1"/>
+  <path class="uuid-640033b8-4705-4f95-bdf9-023e9c498c52" d="M5,6v11c0,.55.45,1,1,1h8c.55,0,1-.45,1-1V6H5ZM8.5,16h-1v-8h1v8ZM12.5,16h-1v-8h1v8Z"/>
+</svg>
